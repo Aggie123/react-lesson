@@ -24,3 +24,5 @@ npm install react-router --save
 
 5. install redux related
 npm install redux react-redux --save-dev
+
+npm run build

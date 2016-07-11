@@ -6,7 +6,7 @@ import ACase from './components/ACase';
 import BCase from './components/BCase';
 import NotFound from './components/404';
 import Counter from './components/Counter-es6';
-import Todos from './containers/todos/list'
+import Todos from './components/todos/App'
 
 export default (
   <Route path="/" component={App}>

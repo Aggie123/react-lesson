@@ -10,7 +10,7 @@ import routes from './routes'
 import { createStore } from 'redux'
 import { Provider } from 'react-redux';
 
-import Todos from './reducers/todos'
+import Todos from './reducers/index'
 import Counter from './reducers/counter'
 
 import BCase from './components/BCase'
